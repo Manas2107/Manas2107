@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manas2107
-- 👀 I’m interested in robotics, cricket and occasionally content writing
+- 👀 I’m interested in robotics, cricket, and occasionally content writing
 - 🌱 I’m currently an electrical engineering undergrad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
